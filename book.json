@@ -1,1 +1,8 @@
-##
+{
+    "title" : "書名",
+    "author" : "作者",
+    "description" : "…",
+    "variables": {
+        "v": "Hello World"
+    }
+}
