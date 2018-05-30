@@ -99,4 +99,5 @@
 
   - RoadID = 道路代碼
      > 公      路：RoadClass (1碼)+RoadNameID(5碼)
+     
      > 市區道路(含市快)：RoadClass (1碼)+RoadNameID(5碼)+CityID(1碼)
