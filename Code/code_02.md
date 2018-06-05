@@ -1,6 +1,6 @@
 ## 路段編碼說明
 
-   ![Alt text](Code/003.jpg)
+   ![Alt text](003.jpg)
    
    紀錄於屬性欄位，以 N/NE/E/SE/S/SW/W/NW八方位碼表示。
    
