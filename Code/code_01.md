@@ -1,7 +1,7 @@
 ## 路段編碼原則
   - 一般路段：分向不分道
   
-    ![Alt text](motclink/Code/001.jpg)
+    ![Alt text](Code/001.jpg)
  
     \*單行道：雙向編碼，惟status：不啟用。
     
