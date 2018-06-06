@@ -4,10 +4,6 @@
 "description" : "交通資訊基礎路段編碼查詢系統",
 "variables": {
 "v": "Hello World"
-} ,
-"sharing": {
-"google": null,
-"facebook": null
 },
 "links": {
 "sidebar": {
