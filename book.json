@@ -15,13 +15,16 @@
 }
 },
 "plugins": [
-"-lunr", "-search", "search-plus","-fontsettings","-highlight",
+"-lunr", 
+"-search", 
+"search-plus",
+"-fontsettings",
+"-highlight",
 "splitter",
 "localized-footer",
 "back-to-top-button",
 "theme-comscore",
-"emphasize"
-"toggle-chapters"
+"folding-chapters"
 ],
 "pluginsConfig": {
 "localized-footer": {
