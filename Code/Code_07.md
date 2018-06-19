@@ -2,9 +2,9 @@
 
 * 同一道路多線段組成者依序編號給予唯一值。
 
-  ![Alt text](../.gitbook/assets/018.jpg)
+  ![Alt text](018.jpg)
 
-  ![Alt text](../.gitbook/assets/017.jpg)
+  ![Alt text](017.jpg)
 
 * 序號碼\(含備用碼\)：5碼，序號順序應具有道路上下游關係。
   1. 公路：以**里程**編碼，AAABB。
@@ -35,24 +35,24 @@
      
      \(3\) 刪除節點1點時，備用碼為前後節點之平均。刪除2節點時則為前後節點之平均再加5。
 
-     ![Alt text](../.gitbook/assets/019.jpg)
+     ![Alt text](019.jpg)
 
   5. 序號碼範例：公路、市區道路、圓環
 
-     ![Alt text](../.gitbook/assets/020.jpg)
+     ![Alt text](020.jpg)
 
-     ![Alt text](../.gitbook/assets/021.jpg)
+     ![Alt text](021.jpg)
 
-     ![Alt text](../.gitbook/assets/022.jpg)
+     ![Alt text](022.jpg)
 
   6. 序號碼範例：高快速公路交流道
 
      1. 前兩碼為交流道編號，後兩碼為匝道流水號遇分叉時右側優先。
      2. 系統交流道歸屬不同交流道分別依原則編號。
 
-     ![Alt text](../.gitbook/assets/023.jpg)
+     ![Alt text](023.jpg)
 
-     ![Alt text](../.gitbook/assets/024.jpg)
+     ![Alt text](024.jpg)
 
   7. 序號碼範例：市區快速道路匝道
 
@@ -60,5 +60,5 @@
      2. 依匝道出入口判斷，先編出口再編入口。
      3. 里程遞增遞減方向判斷，里程遞增先編，反之遞減後編。
 
-     ![Alt text](../.gitbook/assets/026.jpg)
+     ![Alt text](042.jpg)
 
