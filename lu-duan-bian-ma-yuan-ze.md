@@ -1,6 +1,6 @@
 # 路段編碼原則
 
-* &lt;font color = \#ff0000&gt; 一般路段：分向不分道 &lt;/font&gt;
+* <font color = \#ff0000> 一般路段：分向不分道 <font>
 
   ![Alt text](.gitbook/assets/001%20%282%29.jpg)
 
