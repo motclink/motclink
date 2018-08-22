@@ -1,6 +1,6 @@
 # 補充說明
 
-![Alt text](028.jpg)
+![Alt text](../.gitbook/assets/028%20%281%29.jpg)
 
 * LinkID = 基礎路段代碼
 * RoadID = 道路代碼
