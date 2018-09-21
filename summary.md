@@ -9,3 +9,8 @@
     * [縣市碼](Code/C_08.md)
     * [補充說明](Code/C_09.md)
 
+git init
+git add .
+git commit -m 'first commit'
+git remote add origin https://github.com/motclink/motclink
+git push -u origin master
